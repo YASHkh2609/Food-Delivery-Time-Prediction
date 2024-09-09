@@ -1,19 +1,4 @@
 # Food Delivery Time Prediction Model
-
-![Image Description](img/food-delivery.png)
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Website Link](#website-link)
-- [Implementation Details](#implementation-details)
-    - [Methods Used](#methods-used)
-    - [Technologies](#technologies)
-    - [Python Packages Used](#python-packages-used)
-- [Steps Followed](#steps-followed)
-- [Results and Evaluation Criterion](#results-and-evaluation-criterion)
-- [Future Improvements](#future-improvements)
-
   
 ## Project Overview
 This project focuses on developing a food delivery time prediction model. The goal is to estimate the time it takes for food to be delivered to customers accurately. By accurately predicting delivery times, food delivery platforms can enhance customer experience, optimize delivery logistics, and improve overall operational efficiency.
@@ -23,9 +8,6 @@ The dataset used for this project can be obtained from [here](https://www.kaggle
 
 It contains relevant information such as order details, location, city, delivery person information, weather conditions and actual delivery times.
 
-## Website Link
-
-A web-based demonstration of the food delivery time prediction model can be accessed from this [link](https://food-delivery-time-prediction.streamlit.app).
 
 ## Implementation Details
 
@@ -38,7 +20,6 @@ A web-based demonstration of the food delivery time prediction model can be acce
 ### Technologies
 * Python
 * Jupyter
-* streamlit
 
 ### Python Packages Used
 * Pandas
